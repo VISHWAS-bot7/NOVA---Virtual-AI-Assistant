@@ -22,7 +22,10 @@ Setup
 2. Create a .env File
 
  a) Create a .env file in the project directory and add your API keys:
+    
     WEATHER_API=your_openweather_api_key_here
+    
     NEWS_API=your_news_api_key_here
+    
     API_KEY=your_google_gemini_api_key_here
 
