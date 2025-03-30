@@ -22,6 +22,8 @@ Setup
  
  d) Google Gemini API (for AI responses)
 
+ 
+
 2. Create a .env File
 
  a) Create a .env file in the project directory and add your API keys:
