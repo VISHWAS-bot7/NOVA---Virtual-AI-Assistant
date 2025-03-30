@@ -15,8 +15,11 @@ Setup
 1. API Keys Setup
 
  a) NOVA requires API keys for weather, news, and AI functionalities.
+ 
  b) OpenWeather API (for weather updates)
+ 
  c) NewsAPI (for fetching news headlines)
+ 
  d) Google Gemini API (for AI responses)
 
 2. Create a .env File
